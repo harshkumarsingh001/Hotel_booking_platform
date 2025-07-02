@@ -78,6 +78,11 @@ const Navbar = () => {
                         Login
                     </button>
                 </div>
+                <div>
+                    <h1>
+                        HARSH
+                    </h1>
+                </div>
             </nav>
         
     );
